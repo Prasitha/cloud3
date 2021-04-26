@@ -56,7 +56,7 @@
           <span class="icon-bar"></span>
         </button>
         <div class="navbar-header">
-          <a href="home.html" class="navbar-brand headerFont text-lg"><strong>eVoting</strong></a>
+          <a href="index.html" class="navbar-brand headerFont text-lg"><strong>eVoting</strong></a>
         </div>
 
         <div class="collapse navbar-collapse" id="example-nav-collapse">
@@ -65,7 +65,7 @@
             <li><a href="https://sites.google.com/view/tce-voting-system/home"><span class="subFont"><strong>Feedback reports</strong></span></a></li>
             <li><a href="users.php"><span class="subFont"><strong>Voter list</strong></span></a></li>
             <li><a href="vote.php"><span class="subFont"><strong>Vote count</strong></span></a></li>
-			<li><a href="home.html"><span class="subFont"><strong>Home page</strong></span></a></li>
+			<li><a href="index.html"><span class="subFont"><strong>Home page</strong></span></a></li>
 			
 			
           </ul>
